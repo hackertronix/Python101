@@ -1,0 +1,32 @@
+############################ CHALLENGE 3: LIST AND LOOPS ##########################
+
+Skill Required:-
+		* Lists and Dictionaries
+		*for loop
+
+################################### TASK ############################################
+
+
+ Create a dictionary "price" with the following key-value pairs
+		
+                banana: 4
+		apple: 2	
+		orange: 1.5
+                pear: 3
+
+ Create a second dictionary "stcok" with the following key-value pairs
+		
+                banana: 6
+		apple: 0	
+		orange: 32
+                pear: 15
+
+Iterate through both lists such that the output is in the follwing format
+
+		apple
+		price: 2
+		stock: 0
+
+		banana
+		price: 4
+		stock: 6

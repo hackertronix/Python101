@@ -1,0 +1,38 @@
+################## CHALLENGE 2 ##################
+
+Create a Python script that calculates the cost of taking a vacation trip to one of the
+following cities.
+
+SKILLS REQUIRED
+		*Functions
+		*Conditionals
+
+##################### TASK #######################
+
+	# Define a function that calculates the HOTEL COST based on number of days entered
+		Consider PER NIGHT CHARGE = $140
+
+	
+	# Define a function that calulates the flight cost based on the name of city entered
+ 		Consider cost per city as follows
+
+			Charlotte=$183
+			Las vegas=$227
+			New York City=$299
+			Los Angeles=$370
+	
+	#Define a function that calculates the rental car cost based on number of days entered
+		Consider PER DAY COST = $40
+		
+		if a person stays for more than 7 days
+                he is eligible for a $50 discount on the total cost
+
+		if he stays for 3 or more days(but less than 7 days)
+		he is eligible for a $20 discount on total cost
+
+	#Define a function that calculates the TOTAL COST OF TRIP
+		TOTAL = HOTEL_COST + FLIGHT_COST + RENTAL_COST + EXTRA_MONEY_SPENT
+
+
+FINALLY PRINT THE TOTAL COST WITH APPROPRIATE MESSAGE TO THE CONSOLE
+

@@ -1,0 +1,28 @@
+############################# CHALLENGE 1 #############################
+
+PIG LATIN TRANSLATOR.
+
+
+PIG LATIN is a word game where you move the first letter of the word to the end and add 'ay'
+so "Hello" becomes "ellohay"
+
+
+##################### TASK #######################
+
+Write a Pig Latin translator in Python 
+		
+		* Ask User to enter a word in English
+		* Make sure that the word entered is a valid word
+		* Convert the word from English to Pig Latin
+		* Display translation 
+
+
+	SKILLS REQUIRED:-
+			Conditional Statements
+			Strings
+			Console Input
+
+
+
+
+
