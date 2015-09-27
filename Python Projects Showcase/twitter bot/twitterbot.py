@@ -15,5 +15,6 @@ class TwitterAPI:
 
 if __name__ == "__main__":
     twitter = TwitterAPI()
-    twitter.tweet("I'm posting a tweet!")
+    twitter.tweet("I'm Posting My Awesome Tweet !!!")
+    twitter.tweet("And Did I tell You This is a BOT? :D")
     
